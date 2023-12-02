@@ -8,7 +8,7 @@ This creates a clickable link with the text "Google" that directs users to (http
 
 ---
 
-Markdown also allows you to embed images effortlessly. To include an image, use an exclamation mark (!) followed by square brackets for alt text and parentheses for the image URL. For instance:
+Markdown also allows you to embed images. To include an image, use an exclamation mark (!) followed by square brackets for alt text and parentheses for the image URL. For instance:
 
 ![Alt Text](https://github.com/Av0cad0T0ast/Markdown-Basics/assets/112451921/229eae8b-57a2-48f3-a355-25e0dae86d5a)
 
