@@ -15,7 +15,8 @@ For lists, you can either use a - or you can number the lists.
 
 For example, this list has a - and a space after, before the provided list.  
 - Unordered List Item 1 
-- Unordered List Item 2  
+- Unordered List Item 2
+
 This list is numbers with a period after, before the provided list.  
 1. Ordered List Item 1
 2. Ordered List Item 2
