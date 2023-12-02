@@ -18,7 +18,7 @@ For larger code snippets or multiple lines, use triple backticks (\```), followe
 
 ```python
 def example_function():
-    print("Hello, Markdown!")
+    print("Hello World!")
 ```
 This creates a visually separated and sytnax-highlighted code block.
 
