@@ -2,6 +2,8 @@
 
 ## Headers
 
+For headers, there are different sizes and thos correlate to how many # signs you put before the designated words
+
 # Header 1
 ## Header 2
 
