@@ -2,6 +2,8 @@
 
 In Markdown, you can easily add links to your documents. The basic syntax for a link is using square brackets for the link text followed by parentheses for the URL. For example:
 
+/[Google](https://www.google.com)/
+
 [Google](https://www.google.com)
 
 This creates a clickable link with the text "Google" that directs users to (https://www.google.com).
