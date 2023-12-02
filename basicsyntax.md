@@ -17,3 +17,5 @@
 
 *Italic* or _Italic_
 **Bold** or __Bold__
+
+Click [Here](linksandimages.md) to move on to Links and images!
