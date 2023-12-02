@@ -32,4 +32,4 @@ For bold text, use two asterisks (**) or underscores (__):
 
 **Bold** or __Bold__
 
-Click [Here](linksandimages.md) to move on to Links and Images!
+Click _[Here](linksandimages.md)_ to move on to Links and Images!
