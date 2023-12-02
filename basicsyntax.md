@@ -11,7 +11,11 @@ This header 2 has 2 pound signs back to back like this: ## and a space after
 
 ## Lists
 
+For lists, you can either use a - or you can number the lists.
+
+For example, this list has a - and a space after, before the provided list.  
 - Unordered List Item 1
+This list is numbers with a period after, before the provided list.  
 - Unordered List Item 2
 
 1. Ordered List Item 1
