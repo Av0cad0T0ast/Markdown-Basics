@@ -12,7 +12,7 @@ Markdown also allows you to embed images. To include an image, use an exclamatio
 
 ![Alt Text](https://github.com/Av0cad0T0ast/Markdown-Basics/assets/112451921/229eae8b-57a2-48f3-a355-25e0dae86d5a)
 
-This inserts an image with alt text "Alt Text" from the provided URL.
+This inserts an image from the provided URL.
 
 ---
 
