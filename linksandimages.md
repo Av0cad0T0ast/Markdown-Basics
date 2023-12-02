@@ -16,4 +16,4 @@ This inserts an image with alt text "Alt Text" from the provided URL.
 
 ---
 
-Click [Here](formattingtext.md) to move on to Formatting Text!
+Click _[Here](formattingtext.md)_ to move on to Formatting Text!
