@@ -2,28 +2,34 @@
 
 ## Headers
 
-For headers, there are different sizes and thos correlate to how many # signs you put before the designated words.
+Headers in Markdown are created by using pound signs (#). The number of pound signs correlates with the header size. For example, Header 1 has one # sign followed by a space:
 
-For example, this header 1 has one # sign and a space after  
-# Header 1  
-This header 2 has 2 pound signs back to back like this: ## and a space after  
+# Header 1
+
+Header 2, on the other hand, is created with two consecutive pound signs (##) followed by a space:
+
 ## Header 2
 
 ## Lists
 
-For lists, you can either use a - or you can number the lists.
+Lists in Markdown can be either unordered or ordered. For unordered lists, use a hyphen (-) followed by a space before each item:
 
-For example, this list has a - and a space after, before the provided list.  
-- Unordered List Item 1 
+- Unordered List Item 1
 - Unordered List Item 2
 
-This list is numbers with a period after, before the provided list.  
+Ordered lists are created using numbers and a period before each item:
+
 1. Ordered List Item 1
 2. Ordered List Item 2
 
 ## Paragraphs
 
+Markdown allows you to add emphasis to text using various formatting options. Use a single asterisk (*) or underscore (_) for italic text:
+
 *Italic* or _Italic_
+
+For bold text, use two asterisks (**) or underscores (__):
+
 **Bold** or __Bold__
 
-Click [Here](linksandimages.md) to move on to Links and images!
+Click [Here](linksandimages.md) to move on to Links and Images!
