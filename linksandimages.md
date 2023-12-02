@@ -4,7 +4,7 @@ In Markdown, you can easily add links to your documents. The basic syntax for a 
 
 [Google](https://www.google.com)
 
-This creates a clickable link with the text "Link Text" that directs users to (https://www.google.com).
+This creates a clickable link with the text "Google" that directs users to (https://www.google.com).
 
 ---
 
