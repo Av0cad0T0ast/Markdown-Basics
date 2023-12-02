@@ -28,35 +28,35 @@ Ordered lists are created using numbers and a period before each item:
 
 In Markdown, you have several options to format text and add emphasis to your writing.
 
-**Bold Text**
-
 To make text bold, use two asterisks (**) or underscores (__):
 
 **Bold Text**
 
----
+(**Bold Text**)
 
-*Italic Text*
+---
 
 For italic text, use a single asterisk (*) or underscore (_):
 
 *Italic Text*
 
----
+(*Italic Text*)
 
-`Inline Code`
+---
 
 To format text as inline code, enclose it in backticks (\`):
 
 `Inline Code`
 
----
+(`Inline Code`)
 
-~~Strikethrough Text~~
+---
 
 To strike through text, use two tilde symbols (~~):
 
 ~~Strikethrough Text~~
+
+(~~Strikethrough Text~~)
 
 ---
 Click _[Here](linksandimages.md)_ to move on to Links and Images!
