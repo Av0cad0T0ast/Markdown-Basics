@@ -1,6 +1,6 @@
 # Markdown-Basics
 
-**Author:** [Ryan Esparza]
+**Author:** Ryan Esparza
 
 ## Summary
 
@@ -10,4 +10,4 @@ This tutorial provides an introduction to Markdown, a markup language that is ea
 
 This tutorial targets beginners who want to learn Markdown for school, or creating well-formatted documents on Github and even stack overflow.
 
-Lets head to our first page to figure out what is [Markdown](whatismarkdown.md)
+Lets head to our first page to figure out what is [Markdown](whatismarkdown.md)?
