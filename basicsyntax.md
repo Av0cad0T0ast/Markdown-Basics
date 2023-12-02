@@ -22,14 +22,41 @@ Ordered lists are created using numbers and a period before each item:
 1. Ordered List Item 1
 2. Ordered List Item 2
 ---
-## __Paragraphs__
+## __Paragraphs and Text Formatting__
 
-Markdown allows you to add emphasis to text using various formatting options. Use a single asterisk (*) or underscore (_) for italic text:
+# Formatting Text
 
-*Italic* or _Italic_
+In Markdown, you have several options to format text and add emphasis to your writing.
 
-For bold text, use two asterisks (**) or underscores (__):
+**Bold Text**
 
-**Bold** or __Bold__
+To make text bold, use two asterisks (**) or underscores (__):
+
+**Bold Text**
+
+---
+
+*Italic Text*
+
+For italic text, use a single asterisk (*) or underscore (_):
+
+*Italic Text*
+
+---
+
+`Inline Code`
+
+To format text as inline code, enclose it in backticks (\`):
+
+`Inline Code`
+
+---
+
+~~Strikethrough Text~~
+
+To strike through text, use two tilde symbols (~~):
+
+~~Strikethrough Text~~
+
 ---
 Click _[Here](linksandimages.md)_ to move on to Links and Images!
